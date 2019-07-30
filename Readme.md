@@ -4,4 +4,4 @@
 - Use the data_explore.py as a scratch pad to perform exploratory data analysis
 <br>
 
-## download the dataset from https://drive.google.com/open?id=1rX0cxNpGvp7ulincglCX3jq51fEVTHVZ and run the data_explore.py and then sentiment_LSTM.py
+### download the dataset from https://drive.google.com/open?id=1rX0cxNpGvp7ulincglCX3jq51fEVTHVZ and run the data_explore.py and then sentiment_LSTM.py
